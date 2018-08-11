@@ -1,0 +1,24 @@
+.OptionComponent {
+    width: 100%;
+    background: #333745;
+}
+
+.OptionComponent__main-box {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background: #464b5e;
+    display: flex;
+    font-size: 11px;
+    justify-content: space-between;
+    border-bottom: 1px solid #333745;
+}
+
+.OptionComponent__title {
+    font-weight: 500;
+}
+
+.OptionComponent__remove {
+    color: #a5afd7;
+    cursor: pointer;
+}

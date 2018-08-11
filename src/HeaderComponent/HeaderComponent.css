@@ -1,0 +1,15 @@
+.HeaderComponent {
+    width: 100%;
+    background: #20222b;
+    padding: 15px 0;
+}
+
+.HeaderComponent__title {
+    font-size: 25px;
+    margin-bottom: 6px;
+}
+
+.HeaderComponent__sub-title {
+    font-size: 12px;
+    color: #a5afd7;
+}

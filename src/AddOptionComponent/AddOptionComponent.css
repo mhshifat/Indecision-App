@@ -1,0 +1,31 @@
+.AddOptionComponent {
+    width: 100%;
+    background: #333745;
+}
+
+.AddOptionComponent__form {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    background: #464b5e;
+}
+
+.AddOptionComponent__input {
+    width: calc(100% - 85px);
+    height: 25px;
+    padding-left: 5px;
+    color: #fff;
+    background: #333745;
+    border-bottom: 2px solid #20222b;
+}
+
+.AddOptionComponent__btn {
+    background: #8357c5;
+    width: 80px;
+    height: 25px;
+    color: #fff;
+    font-size: 11px;
+    cursor: pointer;
+}
